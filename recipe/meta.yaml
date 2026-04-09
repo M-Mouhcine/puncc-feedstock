@@ -1,5 +1,5 @@
 {% set name = "puncc" %}
-{% set version = "0.8.0" %}
+{% set version = "0.9.0" %}
 
 package:
   name: {{ name|lower }}
@@ -46,4 +46,5 @@ about:
 
 extra:
   recipe-maintainers:
+    - M-Mouhcine
     - CyrilJl
